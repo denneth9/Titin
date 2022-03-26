@@ -14,7 +14,7 @@ And so I did.
 
 ## How it was made
 
-There is a great page on [Wikitionary]([Appendix:Protologisms/Long words/Titin - Wiktionary](https://en.wiktionary.org/wiki/Appendix:Protologisms/Long_words/Titin)), which not only includes the entire word, but also lists, in order of appearance, what component words its made of.
+There is a great page on [Wikitionary](https://en.wiktionary.org/wiki/Appendix:Protologisms/Long_words/Titin), which not only includes the entire word, but also lists, in order of appearance, what component words its made of.
 
 What I then did, is I pasted the word into [Notepad++](https://notepad-plus-plus.org/), and replaced the words with alphabetical characters, in order of appearance:
 
