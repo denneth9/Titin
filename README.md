@@ -2,7 +2,7 @@
 
 ### What is Titin
 
-[Titin](Pronounced as 'Titan') is the largest known protein.
+[Titin](https://en.wikipedia.org/wiki/Titin) (Pronounced as 'Titan') is the largest known protein.
 
 The chemical formula is also, technically, the longest word in the English language.
 
